@@ -1,0 +1,1 @@
+print("Difference of 5 and 6 is: ", abs(5-6))
