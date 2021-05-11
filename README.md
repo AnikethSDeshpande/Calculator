@@ -11,3 +11,5 @@ This repository is for me personal use.. to learn git commands
 6. **Rebase**: (git rebase -i HEAD~3) 
             use rebase to **squash** commits into one sensible commit per feature. helps reduce the number of redundant commits.
           
+* other use case of rebase: https://www.youtube.com/watch?v=f1wnYdLEpgI 
+get featuer branch commits aligned on the master branch 
